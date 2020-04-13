@@ -24,6 +24,8 @@ Programming VR Welding Environment using Robot Arm for Haptic
   
   
  3. HTC Vive tracker Developer Guildlines: https://developer.vive.com/resources/knowledgebase/vive-tracker-developer-guidelines/
+ 4. HTC Vive tracker Tutorial: https://www.raywenderlich.com/9189-htc-vive-tutorial-for-unity
+  
   
   
   
